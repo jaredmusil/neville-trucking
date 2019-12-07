@@ -1,0 +1,112 @@
+# Page settings
+
+baseURL = "http://nevilletrucking.com/"
+languageCode = "en"
+title = "Neville Trucking"
+theme = "hugo-business-frontpage-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+[params]
+    author = "James and Beverly Neville"
+    description = "Central Illinois best residential and commercial trash removal services. Locally owned and operated."
+
+    [params.navbar]
+        name = "Neville Trucking"
+        url = "#"
+        [[params.navbar.nav]]
+        current = true
+        name = "Home"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "About"
+        url = "about"
+        [[params.navbar.nav]]
+        name = "Services"
+        url = "services"
+        [[params.navbar.nav]]
+        name = "Contact"
+        url = "contact"
+
+    [params.header]
+        name = "25 years of dedicated service."
+        tagline = "Central Illinois perferred local residential and commercial refuse collection service. We take pride in our quality of service and support of our local communities"
+
+    [params.summary]
+        url = "#"
+        [params.summary.description]
+        [[params.summary.description.items]]
+        description = "Ben E. Neville Trucking Service, Inc. was established as a small, family operated business over 55 years ago by Ben and Theresa Neville when they began providing trash service for friends and neighbors in their hometown of Minier, IL"
+        [[params.summary.description.items]]
+        description = "From those humble beginnings, the company has greatly expanded its area of coverage and now services many communities throughout the entire Tri-County area of Central Illinois. Our family-operated business is committed to meeting all of our customer’s disposal needs including weekly residential and commercial trash removal service, a complete line of residential and commercial dumpsters and a full range of Roll-Off Containers."
+        [[params.summary.description.items]]
+        description = "Our dependable service and competitive pricing has been the key to our success for over 5 decades! Please contact us and let us know how we can be of service to you!"
+
+        [params.summary.contact]
+        name = "Neville Trucking"
+        address1 = "PO Box 1059"
+        address2 = "Mackinaw, IL 61755"
+        phone = "(309) 359-8400"
+        email = "nevilletrucking@yahoo.com"
+
+    [params.projects]
+        [[params.projects.sections]]
+        title = "Section 1"
+        [[params.projects.sections.rows]]
+        title = "Section 1, Row 1"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 1"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 2"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 3"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows]]
+        # title = "Section 1, Row 2"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 4"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 5"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        url = "#"
+        image = "300x200.png"
+
+        [[params.projects.sections]]
+        # title = "Section 2"
+        [[params.projects.sections.rows]]
+        # title = "Section 2, Row 1"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 1"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 2"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 3"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
+        url = "#"
+        image = "300x200.png"
+        [[params.projects.sections.rows]]
+        # title = "Section 2, Row 2"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 4"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        image = "300x200.png"
+
+    [params.footer]
+        copyright = "Neville Trucking"
