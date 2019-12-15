@@ -8,7 +8,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+# disqusShortname = "username"
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -110,7 +110,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at (309)-359-8400 or <a href="mailto:nevilletrucking@yahoo.com">nevilletrucking@yahoo.com</a>.</p>
+    text = """<p class="hidden-sm hidden-xs" style="padding-top:5px;">Contact us at (309)-359-8400 or <a href="mailto:nevilletrucking@yahoo.com">nevilletrucking@yahoo.com</a>.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -128,10 +128,10 @@ paginate = 10
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
-[params.features]
+[params.services]
     enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
+    # All services are defined in their own files. You can find example items
+    # at 'exampleSite/data/services'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
