@@ -28,6 +28,18 @@
         </div>
         {{ end }}
         {{ end }}
+
+        {{ range $index, $element := sort .Site.Data.services "weight" }}
+        {{ if eq (mod $index 3) 0 }}
+        <div class="row">
+        {{ end }}
+            <div class="col-md-4" style="text-align: center;">
+                <p style="color: #6aae7a; font-weight:bold; font-size:larger;" >{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+            </div>
+        {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.services) 1 )) }}
+        </div>
+        {{ end }}
+        {{ end }}
     </div>
 </section>
 {{ end }}

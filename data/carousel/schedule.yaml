@@ -1,4 +1,4 @@
-weight: 1
+weight: 2
 title: "Holiday Service"
 description: >
   <ul class="list-style-none">
@@ -6,4 +6,4 @@ description: >
      <li>Christmas - Day after</li>
      <li>New Years - Day after</li>
    </ul>
-image: "img/carousel/template-homepage.png"
+image: "img/carousel/laptop-schedule.png"
