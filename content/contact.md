@@ -1,10 +1,8 @@
 +++
-title = "Contact"
 id = "contact"
+title = "Contact"
+
 +++
+# We are here to help. 
 
-# We are here to help you
-
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+To setup service, request a dumpster, or anything else - please submit the form and we will get back to you as quickly as we can. Our general response time is 1-2 business days. For immediate help, please call us at the number listed below. 
