@@ -4,12 +4,16 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: README.md
+  label: README
+  match: "**/*"
 - type: directory
   path: themes/hugo-universial-theme/layouts
   label: Layouts
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: data
   label: Data
