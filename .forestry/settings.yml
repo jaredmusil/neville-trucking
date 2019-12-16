@@ -1,16 +1,34 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: Global Config
+- type: document
+  path: README.md
+  label: README
+- type: directory
+  path: themes/hugo-universial-theme/layouts
+  label: Layouts
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: yaml
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/img
+public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
