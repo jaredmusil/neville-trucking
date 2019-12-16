@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: config.toml
+  label: Global Config
+  match: "**/*"
+- type: document
   path: README.md
   label: README
-  match: "**/*"
 - type: directory
   path: themes/hugo-universial-theme/layouts
   label: Layouts
