@@ -1,9 +1,6 @@
-weight: 2
-title: "Holiday Service"
-description: >
-  <ul class="list-style-none">
-     <li>Thanksgiving - Day after</li>
-     <li>Christmas - Day after</li>
-     <li>New Years - Day after</li>
-   </ul>
-image: "img/carousel/laptop-schedule.png"
+---
+weight: "2"
+title: Holiday Pickup Service
+description: "<ul class=\"list-style-none\"> \n   <li>Christmas - Day after</li>\n
+  \  <li>New Years - Day after</li>\n </ul>\n"
+image: img/carousel/laptop-schedule.png
