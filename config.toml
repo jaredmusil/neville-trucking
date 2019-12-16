@@ -24,8 +24,8 @@ name = "Pay Bill"
 url = "/billing/"
 weight = 3
 [[menu.main]]
-identifier = "contact"
-name = "Contact"
+identifier = "Contact"
+name = "Contact Us"
 url = "/contact/"
 weight = 4
 [[menu.topbar]]
