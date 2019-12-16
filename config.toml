@@ -14,7 +14,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-identifier = "services"
+identifier = "Services"
 name = "Services"
 url = "/services/"
 weight = 2
