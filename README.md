@@ -10,6 +10,7 @@ This repo contains the files used to create the website https://neville-trucking
 - [Snipcart]() - eCommerce and payments
 - [Google Analytics](https://analytics.google.com/analytics/web/) - User metrics and trends
 - [Netlify](https://app.netlify.com/sites/neville-trucking) - Deployment and domain
+- [Formspree](https://formspree.io) - Powers the "Contact Us" form (1,000 emails a day free)
 
 **Technologies**
 
