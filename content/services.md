@@ -30,7 +30,7 @@ We work with you on the size you may need.
 **Roll-off Pricing**
 
 | Size | Dimensions | Cost / Dump with 2 Ton Minimum |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 10 Yards | 10'L x 8'W x 4'H | $200 + $70 per ton | 
 | 20 Yards | 20'L x 8'W x 4'H | $390 + $70 per ton | 
 | 30 Yards | 20'L x 8'W x 6'H | $440 + $70 per ton | 
