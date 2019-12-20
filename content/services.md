@@ -14,8 +14,6 @@ We've been providing residential garbage service to customers in Central Illinoi
 
 For inquiries related to residential garbage, please contact us by completing the contact form. 
 
-<a name="commercial"></a>
-
 ## COMMERCIAL DUMPSTERS
 
 We work with you on the size of dumpster you may need. 
@@ -26,8 +24,6 @@ We work with you on the size of dumpster you may need.
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
 | 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
 | 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
-
-<a name="rolloff"></a>
 
 ## ROLL-OFF DUMPSTERS
 
