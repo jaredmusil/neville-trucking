@@ -20,25 +20,25 @@ For inquiries related to residential garbage, please contact us by completing th
 
 We work with you on the size of dumpster you may need. 
 
+| Size | Dimensions | Cost / Dump | Rental Fee |
+| --- | --- | --- | --- |
+| 2 Yards | 3 1/2'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
+| 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
+| 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
+| 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
+
 <a name="rolloff"></a>
 
 ## ROLL-OFF DUMPSTERS
 
 **Roll-off Pricing**
 
-| Length | 10yd<br>aaa |
+| Length | 10yd |
 | --- | --- |
 | 2 Weeks | 200 + 70 / ton |
 
 **Extra Dumpsters**
 
-| Size | Dimensions | Cost / Dump | Rental Fee |
-| --- | --- | --- | --- |
-| 2 Yards | 3 1/2'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
-| 4 Yards (10 sq) | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
-| 6 Yards (15sq) | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
-| 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
-
 ***
 
-> If you have questions, please feel free to contact us. Our customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
