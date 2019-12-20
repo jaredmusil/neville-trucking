@@ -4,23 +4,25 @@ keywords = ["Services"]
 title = "Services"
 
 +++
-... content here ...
+We strive to offer quality, personal service. 
 
 <a name="residential"></a>
 
-## 1. RESIDENTIAL PICK UP 
+## RESIDENTIAL PICK-UP
 
-... content here ...
+We've been providing residential garbage service to customers in Central Illinois for 56 years. We bill our customers quarterly (Jan, Apr, Jul, Oct). 
+
+For inquiries related to residential garbage, please contact us by completing the contact form. 
 
 <a name="commercial"></a>
 
-## 2. COMMERCIAL DUMPSTERS 
+## COMMERCIAL DUMPSTERS
 
-... content here ...
+We work with you on the size of dumpster you may need. 
 
 <a name="rolloff"></a>
 
-## 3. ROLL-OFF DUMPSTERS
+## ROLL-OFF DUMPSTERS
 
 **Roll-off Pricing**
 
@@ -39,4 +41,4 @@ title = "Services"
 
 ***
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> If you have questions, please feel free to contact us. Our customer support will be happy to help you.
