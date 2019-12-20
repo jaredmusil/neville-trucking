@@ -68,7 +68,7 @@ link_url = "#"
 subtitle = "Make a one time payment using our payment portal"
 title = "Pay My Bill"
 [params.service_areas]
-enable = true
+enable = false
 subtitle = ""
 title = "Areas Served"
 [params.services]
