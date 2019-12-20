@@ -1,11 +1,11 @@
-baseurl = "https://example.org"
+baseurl = "https://nevilletrucking.com"
 defaultContentLanguage = "en"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-universal-theme"
 themesDir = "./themes"
-title = "Universal"
+title = "Neville Trucking"
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
 [[menu.main]]
