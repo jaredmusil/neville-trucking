@@ -27,6 +27,7 @@ This repo contains the files used to create the website https://neville-trucking
 - [ ] Remove blog section from website footer
 - [ ] DELETE Populate facebook social media link on homepage, or delete icon/link
 - [ ] List all service area in "Areas Served" partial section. Find nice city logo/graphics for them.
+- [ ] Set up Contact Form drop down 
 
 ---
 
