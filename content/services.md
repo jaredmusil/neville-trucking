@@ -4,7 +4,7 @@ keywords = ["Services"]
 title = "Services"
 
 +++
-We strive to offer quality, personal service. 
+
 
 <a name="residential"></a>
 
@@ -18,9 +18,9 @@ For inquiries related to residential garbage, please contact us by completing th
 
 We work with you on the size of dumpster you may need. 
 
-| Size | Dimensions | Cost / Dump | Rental Fee |
+| Size | Dimensions | Cost / Dump | Rental Fee After Initial 2 Weeks |
 | --- | --- | --- | --- |
-| 2 Yards | 3 1/2'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
+| 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
 | 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
 | 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
