@@ -36,13 +36,13 @@ weight = 2
 [params]
 about_us = "<p>Ben E. Neville Trucking Service, Inc. was established as a small, family operated business over 55 years ago by Ben and Theresa Neville when they began providing trash service for friends and neighbors in their hometown of Minier, IL."
 address = "<p class=\"text-uppercase\"><strong>Ben E Neville Trucking, Inc.</strong>\n        <br>PO Box 1059\n        <br>Mackinaw, IL 61755\n        <br>\n        <strong>(309) 359-8400</strong>\n      </p>\n      "
-author = "DevCows"
+author = "Ben E. Neville"
 contact_form_ajax = false
 copyright = "Copyright (c) 2019, Neville Trucking; all rights reserved."
 date_format = "January 2, 2006"
-defaultDescription = "Site template made by devcows using hugo"
-defaultKeywords = ["devows", "hugo", "go"]
-default_sharing_image = "img/sharing-default.png"
+defaultDescription = "Dumster and waste service for central Illinois"
+defaultKeywords = ["Trash service", "Commercial", "Residential", "Roll-off", "Central Illinois"]
+default_sharing_image = "img/logo.png"
 email = "nevilletrucking@yahoo.com"
 facebook_site = ""
 googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -52,7 +52,7 @@ logo_small = "img/logo-small.png"
 longitude = "-77.028333"
 mainSections = ["blog"]
 style = "green"
-twitter_site = "GoHugoIO"
+twitter_site = "nevilletrucking"
 viewMorePostLink = "/blog/"
 [params.carousel]
 enable = true
