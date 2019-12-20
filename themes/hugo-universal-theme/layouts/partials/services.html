@@ -34,7 +34,9 @@
         <div class="row">
         {{ end }}
             <div class="col-md-4" style="text-align: center;">
-                <p style="color: #6aae7a; font-weight:bold; font-size:larger;" >{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+                <a href="{{ $element.url }}">
+                    <p style="color: #6aae7a; font-weight:bold; font-size:larger;" >{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+                </a>
             </div>
         {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.services) 1 )) }}
         </div>
