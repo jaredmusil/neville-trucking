@@ -4,7 +4,7 @@ keywords = ["Services"]
 title = "Services"
 
 +++
-We strive to offer quality, personal service. 
+
 
 <a name="residential"></a>
 
