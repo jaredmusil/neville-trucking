@@ -25,6 +25,9 @@
 - id: contactMail
   translation: "Your Email"
 
+- id: contactSubject
+  translation: "Subject"
+
 - id: contactMessage
   translation: "Your Message"
 
