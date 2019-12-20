@@ -29,11 +29,6 @@ name = "Contact Us"
 url = "/contact/"
 weight = 4
 [[menu.topbar]]
-name = "Facebook"
-pre = "<i class='fab fa-2x fa-facebook'></i>"
-url = "http://facebook.com"
-weight = 1
-[[menu.topbar]]
 name = "Email"
 pre = "<i class='fas fa-2x fa-envelope'></i>"
 url = "mailto:nevilletrucking@yahoo.com"
