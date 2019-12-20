@@ -29,7 +29,7 @@ This repo contains the files used to create the website https://neville-trucking
 - [X] DELETE Populate facebook social media link on homepage, or delete icon/link
 - [ ] Set up Contact Form drop down with subject items 
 - [ ] Get formspress set up and working to nevilletrucking@yahoo.com. 
-- [ ] Link home page services section to services page. (no anchor links, please) 
+- [X] Link home page services section to services page. (no anchor links, please) 
 
 ---
 
