@@ -24,7 +24,7 @@ name = "Pay Bill"
 url = "/billing/"
 weight = 3
 [[menu.main]]
-identifier = "Contact"
+identifier = "Contact Us"
 name = "Contact Us"
 url = "/contact/"
 weight = 4
@@ -40,8 +40,8 @@ author = "Ben E. Neville"
 contact_form_ajax = false
 copyright = "Copyright (c) 2019, Neville Trucking; all rights reserved."
 date_format = "January 2, 2006"
-defaultDescription = "Dumster and waste service for central Illinois"
-defaultKeywords = ["Trash service", "Commercial", "Residential", "Roll-off", "Central Illinois"]
+defaultDescription = "Dumpster and waste service for Central Illinois"
+defaultKeywords = ["Trash", "Dumpster", "Commercial", "Residential", "Roll-off", "Central Illinois"]
 default_sharing_image = "img/logo.png"
 email = "nevilletrucking@yahoo.com"
 facebook_site = ""
@@ -65,7 +65,7 @@ enable = true
 icon = "far fa-file-alt"
 link_text = "Make Payment"
 link_url = "#"
-subtitle = "Make a one time payment using our payment portal"
+subtitle = "Make a one-time payment using our online payment portal"
 title = "Pay My Bill"
 [params.service_areas]
 enable = false
@@ -74,7 +74,7 @@ title = "Areas Served"
 [params.services]
 enable = true
 [params.testimonials]
-enable = true
+enable = false 
 subtitle = "We have worked with many service-areas and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our service-areas said about us."
 title = "Testimonials"
 [params.topbar]
