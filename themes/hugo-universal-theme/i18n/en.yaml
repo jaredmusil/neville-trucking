@@ -20,16 +20,19 @@
   translation: "Contact form"
 
 - id: contactName
-  translation: "Your Name"
+  translation: "Name"
 
 - id: contactMail
-  translation: "Your Email"
+  translation: "Email"
 
 - id: contactSubject
   translation: "Subject"
 
+- id: contactPhone
+  translation: "Phone"
+
 - id: contactMessage
-  translation: "Your Message"
+  translation: "Message"
 
 - id: contactSend
   translation: "Send Message"

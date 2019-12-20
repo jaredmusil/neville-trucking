@@ -25,7 +25,7 @@
                                 <input type="text" class="form-control" name="email" id="email" required>
                             </div>
                         </div>
-                        <div class="col-sm-12">
+                        <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="message">{{ i18n "contactSubject" }}</label>
                                 <select id="subject" class="form-control" name="subject" required>
@@ -39,9 +39,27 @@
                                 </select>
                             </div>
                         </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="phoneArea">{{ i18n "contactPhone" }}</label>
+                                <input type="text" class="form-control" name="phoneArea" id="phoneArea" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="phoneExchange">&nbsp;</label>
+                                <input type="text" class="form-control" name="phoneExchange" id="phoneExchange" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="phoneLocal">&nbsp;</label>
+                                <input type="text" class="form-control" name="phoneLocal" id="phoneLocal" required>
+                            </div>
+                        </div>
                         <div class="col-sm-12">
                             <div class="form-group">
-                              <label for="message">{{ i18n "contactMessage" }}</label>
+                                <label for="message"></label>
                                 <textarea id="message" class="form-control" name="message" rows="5" required></textarea>
                             </div>
                         </div>
