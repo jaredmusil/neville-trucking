@@ -79,7 +79,7 @@ subtitle = "We have worked with many service-areas and we always like to hear th
 title = "Testimonials"
 [params.topbar]
 enable = true
-text = "<p class=\"hidden-sm hidden-xs\" style=\"padding-top:5px;\">Contact us at (309)-359-8400 or <a href=\"mailto:nevilletrucking@yahoo.com\">nevilletrucking@yahoo.com</a>.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fas fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
+text = "<p class=\"hidden-sm hidden-xs\" style=\"padding-top:5px;\">Contact us at 309-359-8400 or <a href=\"mailto:nevilletrucking@yahoo.com\">nevilletrucking@yahoo.com</a>.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fas fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
 [params.widgets]
 categories = true
 search = true
