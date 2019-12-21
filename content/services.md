@@ -16,7 +16,7 @@ For inquiries related to residential garbage, please contact us by completing th
 
 We strive to meet our customers needs. We will work with you on size and availability.  
 
-| Size | Dimensions | Cost / Dump | Rental Fee After Initial 2 Weeks |
+| Size | Dimensions | Cost / Dump | Weekly Fee After Initial 2 Weeks |
 | --- | --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
@@ -25,6 +25,8 @@ We strive to meet our customers needs. We will work with you on size and availab
 
 ## ROLL-OFF DUMPSTERS
 
+Contact us about your project and we will help you decide what size roll-off you will need. 
+
 **Roll-off Pricing**
 
 | Size | Dimensions | Cost / Dump with 2 Ton Minimum |
@@ -32,3 +34,5 @@ We strive to meet our customers needs. We will work with you on size and availab
 | 10 Yards | 10'L x 8'W x 4'H | $200 + $70 per ton |
 | 20 Yards | 20'L x 8'W x 4'H | $390 + $70 per ton |
 | 30 Yards | 20'L x 8'W x 6'H | $440 + $70 per ton |
+
+***
