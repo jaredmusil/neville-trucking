@@ -25,7 +25,7 @@ This repo contains the files used to create the website https://neville-trucking
 - [X] Add copy to services page for commercial, residential, and roll-off services.
 - [X] Confirm [formspree](http://www.formspree.io) email address
 - [ ] Determine how pricing will work. (No way to allow blank / enter your own ammount payments)
-- [ ] Remove blog section from website footer
+- [X] Remove blog section from website footer
 - [X] DELETE Populate facebook social media link on homepage, or delete icon/link
 - [ ] Set up Contact Form drop down with subject items 
 - [ ] Get formspress set up and working to nevilletrucking@yahoo.com. 
