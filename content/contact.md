@@ -1,6 +1,6 @@
 +++
 id = "contact"
-title = "Contact"
+title = "Contact Us"
 
 +++
 # We are here to help.
