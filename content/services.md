@@ -14,14 +14,16 @@ For inquiries related to residential garbage, please contact us by completing th
 
 ## COMMERCIAL DUMPSTERS
 
-We strive to meet our customers needs. We will work with you on size and availability.  
+These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
-| Size | Dimensions | Price | Weekly Fee After Initial 2 Weeks |
+| Size | Dimensions | Price | Weekly Fee After Initial 2 Weeks* |
 | --- | --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
 | 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
 | 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
+
+*The rental fee after the initial 2 weeks is $5 per day or $25 a week. 
 
 ## ROLL-OFF DUMPSTERS
 
