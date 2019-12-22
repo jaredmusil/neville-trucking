@@ -38,6 +38,6 @@ We require the dumpster delivery plus the cost of first 2 ton upon or before del
 | 30 Yards | 20'L x 8'W x 6'H | $300 + $70 per ton = $440 |
 
 ***
-<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. For information on how to dispose of these items, contact us.<b>
+<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. Contact us for information on how to dispose of these items.<b>
 
 ***
