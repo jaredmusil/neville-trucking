@@ -12,7 +12,19 @@ We've been providing residential garbage service to customers in Central Illinoi
 
 For inquiries related to residential garbage, please contact us by completing the contact form.
 
-## COMMERCIAL DUMPSTERS
+## COMMERCIAL / PERMANENT DUMPSTERS
+
+We have a variety of sizes for your business or farming needs. 
+
+| Size | Dimensions | Monthly Price |
+| --- | --- | --- | --- |
+| 2 Yards | 3.5'L x 5'W x 4'H | $75 |
+| 4 Yards | 7'L x 5'W x 4'H | $100 |
+| 6 Yards | 9'L x 5'W x 4'H | $120 |
+
+## DUMPSTERS & ROLL-OFFS
+
+Contact us about your project and we will help you decide what size roll-off you will need. 
 
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
@@ -25,9 +37,6 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 
 *The rental fee after the initial 2 weeks is $5 per day or $25 a week. 
 
-## ROLL-OFF DUMPSTERS
-
-Contact us about your project and we will help you decide what size roll-off you will need. 
 
 We require the dumpster delivery plus the cost of first 2 ton upon or before delivery of the container. If your container doesn't exceed the 2 tons we will credit back the difference. 
 
@@ -38,7 +47,9 @@ We require the dumpster delivery plus the cost of first 2 ton upon or before del
 | 30 Yards | 20'L x 8'W x 6'H | $300 + $70 per ton = $440 |
 
 ***
-For any dumpster rental, you <b>must</b> contact us for pick-up.
+For any dumpster rental, you <b>must</b> contact us for pick-up. 
+There is a $50 over fill charge if your waste is above the fill line. 
+
 ***
 <b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. Contact us for information on how to dispose of these items.<b>
 
