@@ -34,6 +34,7 @@ We require a 2 ton minimum up front. If your container doesn't exceed the 2 tons
 | 20 Yards | 20'L x 8'W x 4'H | $250 + $70 per ton = $390 |
 | 30 Yards | 20'L x 8'W x 6'H | $300 + $70 per ton = $440 |
 
-By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. For information on how to dispose of these items, contact us. 
+***
+<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. For information on how to dispose of these items, contact us.<b>
 
 ***
