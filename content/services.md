@@ -37,6 +37,8 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 
 *The rental fee after the initial 2 weeks is $5 per day or $25 a week. 
 
+***
+
 **ROLL OFF PRICING**
 
 We require the dumpster delivery plus the cost of first 2 ton upon or before delivery of the container. If your container doesn't exceed the 2 tons we will credit back the difference. 
