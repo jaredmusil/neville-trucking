@@ -26,13 +26,14 @@ We strive to meet our customers needs. We will work with you on size and availab
 ## ROLL-OFF DUMPSTERS
 
 Contact us about your project and we will help you decide what size roll-off you will need. 
-
-**Roll-off Pricing**
+We require a 2 ton minimum up front. If your container doesn't exceed the 2 tons we will credit back the difference. 
 
 | Size | Dimensions | Cost / Dump with 2 Ton Minimum |
 | --- | --- | --- |
-| 10 Yards | 10'L x 8'W x 4'H | $200 + $70 per ton |
-| 20 Yards | 20'L x 8'W x 4'H | $390 + $70 per ton |
-| 30 Yards | 20'L x 8'W x 6'H | $440 + $70 per ton |
+| 10 Yards | 10'L x 8'W x 4'H | $200 + $70 per ton = $340 |
+| 20 Yards | 20'L x 8'W x 4'H | $250 + $70 per ton = $390 |
+| 30 Yards | 20'L x 8'W x 6'H | $300 + $70 per ton = $440 |
+
+By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. For information on how to dispose of these items, contact us. 
 
 ***
