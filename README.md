@@ -24,14 +24,15 @@ This repo contains the files used to create the website https://neville-trucking
 - [ ] Add google analytics ID to `config.toml`
 - [X] Add copy to services page for commercial, residential, and roll-off services.
 - [X] Confirm [formspree](http://www.formspree.io) email address
-- [ ] Determine how pricing will work. (No way to allow blank / enter your own ammount payments)
+- [ ] Determine how pricing will work. (No way to allow blank / enter your own amount payments)
 - [X] Remove blog section from website footer
 - [X] DELETE Populate facebook social media link on homepage, or delete icon/link
 - [X] Set up Contact Form drop down with subject items 
-- [ ] Get formspress set up and working to nevilletrucking@yahoo.com. 
+- [X] Get formspress set up and working to nevilletrucking@yahoo.com. 
 - [X] Link home page services section to services page. (no anchor links, please) 
 - [ ] Link roll-off section on homepage to contact us page.
 - [ ] Link residential section on homepage to contact page. 
+- [ ] Add servicing address to contact form as data field.  
 - [ ] GO LIVE! 
 
 ---
