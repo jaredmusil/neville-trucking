@@ -17,7 +17,7 @@ For inquiries related to residential garbage, please contact us by completing th
 We have a variety of sizes for your business or farming needs. 
 
 | Size | Dimensions | Monthly Price |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $75 |
 | 4 Yards | 7'L x 5'W x 4'H | $100 |
 | 6 Yards | 9'L x 5'W x 4'H | $120 |
@@ -48,6 +48,7 @@ We require the dumpster delivery plus the cost of first 2 ton upon or before del
 
 ***
 For any dumpster rental, you <b>must</b> contact us for pick-up. 
+
 There is a $50 over fill charge if your waste is above the fill line. 
 
 ***
