@@ -57,6 +57,6 @@ There is a $50 over fill charge if your waste is above the fill line.
 
 ***
 
-##### <b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.<b>
+#### <b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.<b>
 
 ***
