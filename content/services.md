@@ -28,7 +28,7 @@ Contact us about your project and we will help you decide what size roll-off you
 
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
-| Size | Dimensions | Price | Weekly Fee After Initial 2 Weeks* |
+| Size | Dimensions | Price per Dump | Weekly fee After Initial 2 Weeks* |
 | --- | --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
