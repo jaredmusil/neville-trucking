@@ -41,13 +41,13 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 
 **ROLL OFF PRICING**
 
-We require the dumpster delivery plus the cost of first 2 ton upon or before delivery of the container. If your container doesn't exceed the 2 tons we will credit back the difference. 
+We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $70.  
 
-| Size | Dimensions | Price with 2 Ton Minimum |
+| Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
-| 10 Yards | 10'L x 8'W x 4'H | $200 + $70 per ton = $340 |
-| 20 Yards | 20'L x 8'W x 4'H | $250 + $70 per ton = $390 |
-| 30 Yards | 20'L x 8'W x 6'H | $300 + $70 per ton = $440 |
+| 10 Yards | 10'L x 8'W x 4'H | $340 |
+| 20 Yards | 20'L x 8'W x 4'H | $390 |
+| 30 Yards | 20'L x 8'W x 6'H | $440 |
 
 ***
 For any dumpster rental, you <b>must</b> contact us for pick-up. 
@@ -55,6 +55,6 @@ For any dumpster rental, you <b>must</b> contact us for pick-up.
 There is a $50 over fill charge if your waste is above the fill line. 
 
 ***
-<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics. Contact us for information on how to dispose of these items.<b>
+<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.<b>
 
 ***
