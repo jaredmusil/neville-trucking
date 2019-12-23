@@ -32,7 +32,8 @@ This repo contains the files used to create the website https://neville-trucking
 - [X] Link home page services section to services page. (no anchor links, please) 
 - [ ] Link roll-off section on homepage to contact us page.
 - [ ] Link residential section on homepage to contact page. 
-- [ ] Add servicing address to contact form as data field.  
+- [ ] Link commercial to contact us page. 
+- [ ] Add servicing address to contact form as data field. 
 - [ ] GO LIVE! 
 
 ---
