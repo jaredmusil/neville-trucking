@@ -46,7 +46,7 @@ We require payment upon or before delivery of the container. The listed price in
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
 | 10 Yards | 10'L x 8'W x 4'H | $340 |
-| 20 Yards | 20'L x 8'W x 4'H | $390 |
+| 20 Yards | 20'L x 8'W x 4'H or 15'L x 8'W x 6'H | $390 |
 | 30 Yards | 20'L x 8'W x 6'H | $440 |
 
 ***
