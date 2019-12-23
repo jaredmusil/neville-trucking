@@ -14,7 +14,7 @@ For inquiries related to residential garbage, please contact us by completing th
 
 ## COMMERCIAL / PERMANENT DUMPSTERS
 
-We have a variety of sizes for your business or farming needs. 
+We have a variety of sizes for your business or farming needs.
 
 | Size | Dimensions | Monthly Price |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ We have a variety of sizes for your business or farming needs.
 
 ## DUMPSTERS & ROLL-OFFS
 
-Contact us about your project and we will help you decide what size roll-off you will need. 
+Contact us about your project and we will help you decide what size roll-off you will need.
 
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
@@ -35,13 +35,13 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 | 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
 | 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
 
-*The rental fee after the initial 2 weeks is $5 per day or $25 a week. 
+\*The rental fee after the initial 2 weeks is $5 per day or $25 a week.
 
 ***
 
 **ROLL OFF PRICING**
 
-We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $70.  
+We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $70.
 
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
@@ -50,11 +50,13 @@ We require payment upon or before delivery of the container. The listed price in
 | 30 Yards | 20'L x 8'W x 6'H | $440 |
 
 ***
-For any dumpster rental, you <b>must</b> contact us for pick-up. 
 
-There is a $50 over fill charge if your waste is above the fill line. 
+For any dumpster rental, you <b>must</b> contact us for pick-up.
+
+There is a $50 over fill charge if your waste is above the fill line.
 
 ***
-<b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.<b>
+
+##### <b>By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.<b>
 
 ***
