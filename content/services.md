@@ -20,7 +20,7 @@ We have a variety of sizes for your business or farming needs.
 | --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $75 |
 | 4 Yards | 7'L x 5'W x 4'H | $100 |
-| 6 Yards | 9'L x 5'W x 4'H | $120 |
+| 6 Yards | 10'L x 5'W x 4'H | $120 |
 
 ## DUMPSTERS & ROLL-OFFS
 
@@ -33,7 +33,7 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 | 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
 | 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
 | 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
-| 8 Yards | 9'L x 5'W x 6'H | $240 (no shingles) | $25 |
+| 8 Yards | 13'L x 5'W x 4'H | $240 (no shingles) | $25 |
 
 \*The rental fee after the initial 2 weeks is $5 per day or $25 a week.
 
