@@ -33,7 +33,8 @@ This repo contains the files used to create the website https://neville-trucking
 - [ ] Link roll-off section on homepage to contact us page.
 - [ ] Link residential section on homepage to contact page. 
 - [ ] Link commercial to contact us page. 
-- [ ] Add servicing address to contact form as data field. 
+- [ ] Add servicing address to contact form as data field.
+- [ ] update carousel from green background to photo or something else per discussion.  
 - [ ] GO LIVE! 
 
 ---
