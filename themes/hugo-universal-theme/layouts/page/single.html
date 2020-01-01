@@ -1,55 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-
   {{ partial "head.html" . }}
-
   <body>
-
     <div id="all">
-
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">
-            {{ if isset .Params "id" }}
-
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      {{ partial "breadcrumbs.html" . }}
+      <div id="content">
+          {{ if isset .Params "id" }}
               {{ partial .Params.id . }}
-
-            {{ else }}
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12">
-
-                        <div>
-                          {{ .Content }}
-                        </div>
-
-                    </div>
-
+          {{ else }}
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div>
+                  {{ .Content }}
                 </div>
-                <!-- /.row -->
-
+              </div>
             </div>
-            <!-- /.container -->
-
-            {{ end }}
+          </div>
+          {{ end }}
         </div>
-        <!-- /#content -->
-
         {{ partial "footer.html" . }}
-
     </div>
-    <!-- /#all -->
-
+    <div hidden id="snipcart" data-api-key="ZWRhMTg2YTEtNTI3NC00NDEzLThkZWYtZTc2ZGM3YTI5ZjczNjM3MDk0NTI1NzA1NTU3MjI3"></div>
     {{ partial "scripts.html" . }}
-
   </body>
 </html>
