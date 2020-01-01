@@ -21,6 +21,7 @@
                         {{ end }}
                         <h3>{{ $element.name | markdownify }}</h3>
                         <p>{{ $element.description | markdownify }}</p>
+                        <p class="mobile-only" style="color: #6aae7a; font-weight:bold; font-size:larger;">{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
                     </div>
                 </div>
         {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.services) 1 )) }}
@@ -31,11 +32,11 @@
 
         {{ range $index, $element := sort .Site.Data.services "weight" }}
         {{ if eq (mod $index 3) 0 }}
-        <div class="row">
+        <div class="row desktop-only">
         {{ end }}
-            <div class="col-md-4" style="text-align: center;">
-                <a href="{{ $element.url }}">
-                    <p style="color: #6aae7a; font-weight:bold; font-size:larger;" >{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+            <div class="col-md-4 desktop-only" style="text-align: center;">
+                <a class="desktop-only" href="{{ $element.url }}">
+                    <p class="desktop-only" style="color: #6aae7a; font-weight:bold; font-size:larger;">{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
                 </a>
             </div>
         {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.services) 1 )) }}
