@@ -1,6 +1,6 @@
 +++
-id = "billing"
-title = "Billing & Payments"
+id = "Payments"
+title = "Make a Payment"
 
 +++
 You can now submit a payment online using our payment portal. Please include the following information with your payment:
