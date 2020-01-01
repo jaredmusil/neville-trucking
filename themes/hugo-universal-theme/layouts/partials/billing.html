@@ -8,12 +8,11 @@
                   <h3>Products</h3>
                 </div>
 
-                <div class="row" id="products">
-                    <div class="col-sm-3">
-                        <p>PRODUCT PHOTO</p>
-                    </div>
-                    <div class="col-sm-9">
-                        <p>PRODUCT DESCRIPTION</p>
+                <div class="row">
+                    <div class="col-sm-12">
+                        {{ range .Site.Data.products }}
+                            {{ partial "product.html" . }}
+                        {{ end }}
                     </div>
                 </div>
             </section>
