@@ -11,7 +11,7 @@ https://neville-trucking.netlify.com/
 - [X] Link roll-off section on homepage to contact us page.
 - [X] Link residential section on homepage to contact page. 
 - [X] Link commercial to contact us page. 
-- [ ] Add servicing address to contact form as data field.
+- [X] Add servicing address to contact form as data field.
 - [ ] Update carousel from green background to photo or something else per discussion.  
 - [ ] GO LIVE! 
 - [X] Add copy to services page for commercial, residential, and roll-off services.
