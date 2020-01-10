@@ -8,9 +8,9 @@ https://neville-trucking.netlify.com/
 
 - [ ] Add google analytics ID to `config.toml`
 - [ ] Determine how pricing will work. (No way to allow blank / enter your own amount payments)
-- [ ] Link roll-off section on homepage to contact us page.
-- [ ] Link residential section on homepage to contact page. 
-- [ ] Link commercial to contact us page. 
+- [X] Link roll-off section on homepage to contact us page.
+- [X] Link residential section on homepage to contact page. 
+- [X] Link commercial to contact us page. 
 - [ ] Add servicing address to contact form as data field.
 - [ ] Update carousel from green background to photo or something else per discussion.  
 - [ ] GO LIVE! 
