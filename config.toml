@@ -64,7 +64,7 @@ title = "From our blog"
 enable = true
 icon = "far fa-file-alt"
 link_text = "Make Payment"
-link_url = "#"
+link_url = "payments"
 subtitle = "Make a one-time payment using our online payment portal"
 title = "Pay My Bill"
 [params.service_areas]
