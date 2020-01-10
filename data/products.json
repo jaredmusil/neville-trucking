@@ -1,10 +1,18 @@
 [
-    {
-      "id": "SUBSCRIPTION_RESIDENTIAL",
-      "name": "Residential Waste Service",
-      "price": 50.00,
-      "image": "/img/4yd-1-sm.jpg",
-      "description": "Residential Service occurs once a week on the day that corresponds with your service address",
-      "product_url": "http://neville-trucking.com/services/residential"
-    }
-  ]
+  {
+    "id": "SUBSCRIPTION_RESIDENTIAL_SMALL",
+    "name": "Residential Waste Service - Small",
+    "price": 50.00,
+    "image": "/img/products/4yd-1-sm.jpg",
+    "description": "Residential Service occurs once a week on the day that corresponds with your service address",
+    "product_url": "http://neville-trucking.com/services/residential"
+  },
+  {
+    "id": "SUBSCRIPTION_RESIDENTIAL_LARGE",
+    "name": "Residential Waste Service - Large",
+    "price": 50.00,
+    "image": "/img/products/4yd-1-sm.jpg",
+    "description": "Residential Service occurs once a week on the day that corresponds with your service address",
+    "product_url": "http://neville-trucking.com/services/residential"
+  }
+]

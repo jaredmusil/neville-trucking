@@ -16,11 +16,90 @@ For inquiries related to residential garbage, please contact us by completing th
 
 We have a variety of sizes for your business or farming needs.
 
-| Size | Dimensions | Monthly Price |
-| --- | --- | --- |
-| 2 Yards | 3.5'L x 5'W x 4'H | $75 |
-| 4 Yards | 7'L x 5'W x 4'H | $100 |
-| 6 Yards | 10'L x 5'W x 4'H | $120 |
+<table>
+  <thead>
+    <tr>
+      <th>Size</th>
+      <th>Dimensions</th>
+      <th>Monthly Price</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2 Yards</td>
+     <td>3.5&#39;L x 5&#39;W x 4&#39;H</td>
+     <td>$75</td>
+     <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 2 Yard"
+          data-item-price="75"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+     </td>
+    </tr>
+    <tr>
+      <td>4 Yards</td>
+      <td>7&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$100</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 4 Yard"
+          data-item-price="100"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>6 Yards</td>
+      <td>10&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$120</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 6 Yard"
+          data-item-price="120"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## DUMPSTERS & ROLL-OFFS
 
@@ -28,14 +107,115 @@ Contact us about your project and we will help you decide what size roll-off you
 
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
-| Size | Dimensions | Price per Dump | Weekly fee After Initial 2 Weeks* |
-| --- | --- | --- | --- |
-| 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
-| 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
-| 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
-| 8 Yards | 13'L x 5'W x 4'H | $240 (no shingles) | $25 |
+<table>
+  <thead>
+    <tr>
+      <th>Size</th>
+      <th>Dimensions</th>
+      <th>Price per Dump</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2 Yards</td>
+      <td>3.5&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$90 ($125 shingles)</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 6 Yard"
+          data-item-price="90"
+          data-item-description=""
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>4 Yards</td>
+      <td>7&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$150 ($175 shingles)</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 6 Yard"
+          data-item-price="120"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>6 Yards</td>
+      <td>9&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$200 ($250 shingles)</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 6 Yard"
+          data-item-price="120"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>8 Yards</td>
+      <td>13&#39;L x 5&#39;W x 4&#39;H</td>
+      <td>$240 (no shingles)</td>
+      <td>
+        <button
+          class="snipcart-add-item buy-button btn btn-template-main"
+          data-item-id="1"
+          data-item-name="Commercial Service - 6 Yard"
+          data-item-price="120"
+          data-item-description="Billed Quarterly"
+          data-item-custom1-name="Account Number"
+          data-item-custom2-name="Servicing Address (Street & Town)"
+          data-item-categories="Residential"
+          data-item-max-quantity="1"
+          data-item-taxable="false"
+          data-item-payment-interval="Month"
+          data-item-payment-interval-count="3"
+          data-item-cancellation-action="PartialRefundLastPayment"
+          data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+          Add to cart
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-\*The rental fee after the initial 2 weeks is $5 per day or $25 a week.
+
+<br>
+
+> **PLEASE NOTE:** The rental fee after the initial 2 weeks is $5 per day (or $25 a week).
 
 ***
 

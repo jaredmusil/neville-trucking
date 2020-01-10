@@ -1,0 +1,103 @@
+<div class="container" id="contact">
+    <div class="row">
+        <div class="col-md-8">
+            <section>
+                {{ .Content }}
+<!-- 
+                <div class="heading">
+                    <h3>Pay Bill</h3>
+                </div> -->
+<!-- 
+                <button
+                class="snipcart-add-item buy-button btn btn-template-main"
+                data-item-id="1"
+                data-item-name="Neville Trucking Service"
+                data-item-price="81"
+                data-item-description="Billed Quarterly"
+                data-item-custom1-name="Account Number"
+                data-item-custom2-name="Servicing Address (Street & Town)"
+                data-item-categories="Residential"
+                data-item-max-quantity="1"
+                data-item-taxable="false"
+                data-item-payment-interval="Month"
+                data-item-payment-interval-count="3">
+                Standard Service ($81)
+              </button> -->
+
+                <!-- <div class="row">
+                    <div class="col-sm-12">
+                        <div id="paypal-button-container"></div>
+                        <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+                        <script>
+                            paypal.Buttons({
+                                style: {
+                                    shape: 'rect',
+                                    color: 'blue',
+                                    layout: 'vertical',
+                                    label: 'pay', 
+                                },
+                                createOrder: function(data, actions) {
+                                    return actions.order.create({
+                                        purchase_units: [{
+                                            amount: {
+                                                value: '10.00'
+                                            }
+                                        }]
+                                    });
+                                },
+                                onApprove: function(data, actions) {
+                                    return actions.order.capture().then(function(details) {
+                                        alert('Transaction completed by ' + details.payer.name.given_name + '!');
+                                    });
+                                }
+                            }).render('#paypal-button-container');
+                        </script>
+                    </div>
+                </div> -->
+
+                <!-- <div class="heading">
+                  <h3>Start Service</h3>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        {{ range .Site.Data.products }}
+                            {{ partial "product.html" . }}
+                        {{ end }}
+                    </div>
+                </div> -->
+            </section>
+        </div>
+
+        <div class="col-md-4">
+            <button
+                class="snipcart-add-item buy-button btn btn-template-main"
+                data-item-id="1"
+                data-item-name="Neville Trucking Service"
+                data-item-price="81"
+                data-item-description="Billed Quarterly"
+                data-item-custom1-name="Account Number"
+                data-item-custom2-name="Servicing Address (Street & Town)"
+                data-item-categories="Residential"
+                data-item-max-quantity="1"
+                data-item-taxable="false"
+                data-item-payment-interval="Month"
+                data-item-payment-interval-count="3">
+            Pay My Bill
+           </button>
+           <br><br>
+            
+            <section>
+                <div class="snipcart-summary"></div>
+                <!-- <p><button class="snipcart-customer-signin btn btn-template-main">All Orders</button></p> -->
+                <!-- <p><button class="snipcart-user-profile">My Profile</button></p> -->
+                <!-- <p><button class="snipcart-user-email"></button></p> -->
+                <!-- <p><button class="snipcart-edit-profile">Edit profile</button></p> -->
+                <!-- <p><button class="snipcart-user-logout">Logout</button></p> -->
+                <!-- <p><button class="snipcart-checkout btn btn-template-main">Checkout</button></p> -->
+                <p>Items In Cart: <span class="snipcart-items-count"></span></p>
+                <p>Total Price: <span class="snipcart-total-price"></span></p>
+            </section>
+        </div>
+    </div>
+</div>

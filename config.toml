@@ -1,10 +1,10 @@
 baseurl = "https://nevilletrucking.com"
 defaultContentLanguage = "en"
 googleAnalytics = ""
-languageCode = "en-us"
+languageCode = "en"
 paginate = 10
-theme = "hugo-universal-theme"
-themesDir = "./themes"
+# theme = "hugo-universal-theme"
+# themesDir = "./themes"
 title = "Neville Trucking"
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
@@ -21,7 +21,7 @@ weight = 2
 [[menu.main]]
 identifier = "Pay Bill"
 name = "Pay Bill"
-url = "/billing/"
+url = "/payments/"
 weight = 3
 [[menu.main]]
 identifier = "Contact Us"
@@ -47,8 +47,8 @@ email = "nevilletrucking@yahoo.com"
 facebook_site = ""
 googleMapsApiKey = ""
 latitude = "-12.043333"
-logo = "img/logo.png"
-logo_small = "img/logo-small.png"
+logo = "img/logos/logo.png"
+logo_small = "img/logos/logo-small.png"
 longitude = "-77.028333"
 mainSections = ["blog"]
 style = "green"
@@ -84,3 +84,5 @@ text = "<p class=\"hidden-sm hidden-xs\" style=\"padding-top:5px;\">Contact us a
 categories = true
 search = true
 tags = true
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,26 @@
+<div class="product">
+  <h2 class="product__name">{{ .name }}</h2>
+  <img class="product__image" src="{{ .image }}" alt="">
+  <p class="product__description">{{ .description }}</p>
+  <div class="product__button-container">
+    <div class="product__price">${{ .price }}</div>
+    <button
+      class="snipcart-add-item buy-button btn btn-template-main"
+      data-item-id="{{ .id }}"
+      data-item-name="{{ .name }}"
+      data-item-price="{{ .price }}"
+      data-item-url="{{ .product_url }}"
+      data-item-description="{{ .description }}"
+      data-item-custom1-name="Account Number"
+      data-item-custom2-name="Servicing Address (Street & Town)"
+      data-item-categories="Residential"
+      data-item-max-quantity="1"
+      data-item-taxable="false"
+      data-item-payment-interval="Month"
+      data-item-payment-interval-count="3"
+      data-item-cancellation-action="PartialRefundLastPayment"
+      data-item-pausing-action="KeepActiveUntilEndOfBillingCycle">
+      Add to cart
+    </button>
+  </div>
+</div>
