@@ -51,12 +51,10 @@ We require payment upon or before delivery of the container. The listed price in
 
 ***
 
-For any dumpster rental, you <b>must</b> contact us for pick-up.
-
-There is a $50 over fill charge if your waste is above the fill line.
-
-***
-
+> For any dumpster rental, you <b>must</b> contact us for pick-up.  
+>
+> There is a $50 over fill charge if your waste is above the fill line.
+> 
 > **By state law, the landfill will not allow: tires, yard waste, appliances, or electronics.**
 
 ***
