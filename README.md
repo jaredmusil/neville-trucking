@@ -6,6 +6,7 @@ https://neville-trucking.netlify.com/
 
 **TODO**
 
+- [ ] where did pretty grass/flower picture go on homepage with pay component?
 - [ ] Add google analytics ID to `config.toml`
 - [ ] Determine how pricing will work. (No way to allow blank / enter your own amount payments)
 - [X] Link roll-off section on homepage to contact us page.
