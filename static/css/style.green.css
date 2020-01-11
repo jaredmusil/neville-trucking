@@ -1778,7 +1778,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/photogrid-map.png') center top no-repeat;
+  background: url('../img/home.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
