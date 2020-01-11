@@ -36,6 +36,10 @@ We have a variety of sizes for your business or farming needs.
 
 Contact us about your project and we will help you decide what size roll-off you will need.
 
+<br>
+
+**DUMPSTER PRICING**
+
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
 | Size | Dimensions | Price per Dump | Weekly fee After Initial 2 Weeks* |
@@ -59,6 +63,8 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
     <img class="thumb" src="/img/products/8yd-1-sm.jpg" alt="8 Yard"><div class="label">8 Yard</div>
   </div>
 </div>
+
+<br>
 
 > *The rental fee after the initial 2 weeks is $5 per day or $25 a week.
 
