@@ -11,7 +11,7 @@
                 <div class="col-md-4">
                     <div class="box-simple">
                         {{ with $element.url }}
-                        <a href="{{ $element.url }}">
+                        <a class="desktop-only" href="{{ $element.url }}">
                         {{ end }}
                             <div class="icon">
                                 <i class="{{ .icon }}"></i>
@@ -21,7 +21,9 @@
                         {{ end }}
                         <h3>{{ $element.name | markdownify }}</h3>
                         <p>{{ $element.description | markdownify }}</p>
-                        <p class="mobile-only" style="color: #6aae7a; font-weight:bold; font-size:larger;">{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+                        <a class="mobile-only" href="{{ $element.url }}">
+                          <p class="mobile-only" style="color: #6aae7a; font-weight:bold; font-size:larger;">{{ $element.button | markdownify }} <img src="img/chevron.png"></p>
+                        </a>
                     </div>
                 </div>
         {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.services) 1 )) }}
