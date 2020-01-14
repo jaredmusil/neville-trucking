@@ -88,7 +88,7 @@ We require payment upon or before delivery of the container. The listed price in
     <img class="thumb" src="/img/products/20yd-3-sm.jpg" alt="20 Yard"><div class="label">20 Yard</div>
   </div>
   <div class="photo">
-    <img class="thumb" src="/img/products/30yd-7-sm.jpg" alt="30 Yard"><div class="label">30 Yard</div>
+    <img class="thumb" src="/img/products/30yd-8-sm.jpg" alt="30 Yard"><div class="label">30 Yard</div>
   </div>
 </div>
 
