@@ -18,11 +18,11 @@ identifier = "Services"
 name = "Services"
 url = "/services/"
 weight = 2
-[[menu.main]]
-identifier = "Pay Bill"
-name = "Pay Bill"
-url = "/payments/"
-weight = 3
+# [[menu.main]]
+# identifier = "Pay Bill"
+# name = "Pay Bill"
+# url = "/payments/"
+# weight = 3
 [[menu.main]]
 identifier = "Contact Us"
 name = "Contact Us"
