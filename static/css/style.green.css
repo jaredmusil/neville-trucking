@@ -3075,6 +3075,9 @@ fieldset[disabled] .btn-template-primary.active {
   color: #3b3b3b;
   background-color: transparent;
 }
+.navbar-default .navbar-brand>img {
+  height: 100%;
+}
 .navbar-default .navbar-text {
   color: #777777;
 }
