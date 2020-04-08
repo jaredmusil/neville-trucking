@@ -3,11 +3,16 @@ defaultContentLanguage = "en"
 googleAnalytics = ""
 languageCode = "en"
 paginate = 10
-# theme = "hugo-universal-theme"
-# themesDir = "./themes"
 title = "Neville Trucking"
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+identifier = "Dumpsters"
+name = "Dumpsters "
+url = "https://nevilletrucking.com/services/#/"
+weight = ""
 [[menu.main]]
 identifier = "Home"
 name = "Home"
@@ -18,11 +23,6 @@ identifier = "Services"
 name = "Services"
 url = "/services/"
 weight = 2
-# [[menu.main]]
-# identifier = "Pay Bill"
-# name = "Pay Bill"
-# url = "/payments/"
-# weight = 3
 [[menu.main]]
 identifier = "Contact Us"
 name = "Contact Us"
@@ -56,10 +56,6 @@ twitter_site = "nevilletrucking"
 viewMorePostLink = "/blog/"
 [params.carousel]
 enable = true
-[params.recent_posts]
-enable = false
-subtitle = ""
-title = "From our blog"
 [params.introduction]
 enable = true
 icon = "far fa-file-alt"
@@ -67,6 +63,10 @@ link_text = "Family Owned and Operated"
 link_url = "payments"
 subtitle = "<p>Ben E. Neville Trucking Service, Inc. was established as a small, family operated business over 55 years ago by Ben and Theresa Neville when they began providing trash service for friends and neighbors in their hometown of Minier, IL.</p>"
 title = "Family Owned and Operated"
+[params.recent_posts]
+enable = false
+subtitle = ""
+title = "From our blog"
 [params.see_more]
 enable = true
 icon = "far fa-file-alt"
@@ -81,7 +81,7 @@ title = "Areas Served"
 [params.services]
 enable = true
 [params.testimonials]
-enable = false 
+enable = false
 subtitle = "We have worked with many service-areas and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our service-areas said about us."
 title = "Testimonials"
 [params.topbar]
@@ -91,5 +91,3 @@ text = "<p class=\"hidden-sm hidden-xs\" style=\"padding-top:5px;\">Contact us a
 categories = true
 search = true
 tags = true
-[markup.goldmark.renderer]
-unsafe= true
