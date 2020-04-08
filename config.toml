@@ -16,7 +16,7 @@ weight = 1
 [[menu.main]]
 identifier = "Dumpsters"
 name = "Dumpsters "
-url = "https://nevilletrucking.com/services/#/"
+url = "/services/"
 weight = "3"
 [[menu.main]]
 identifier = "Services"
@@ -42,7 +42,7 @@ copyright = "Copyright (c) 2019, Neville Trucking; all rights reserved."
 date_format = "January 2, 2006"
 defaultDescription = "Dumpster and waste service for Central Illinois"
 defaultKeywords = ["Trash", "Dumpster", "Commercial", "Residential", "Roll-off", "Central Illinois"]
-default_sharing_image = "img/logo.png"
+default_sharing_image = "logo-big.png"
 email = "nevilletrucking@yahoo.com"
 facebook_site = ""
 googleMapsApiKey = ""
