@@ -9,15 +9,15 @@ blog = "/blog/:year/:month/:day/:filename/"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-identifier = "Dumpsters"
-name = "Dumpsters "
-url = "https://nevilletrucking.com/services/#/"
-weight = ""
-[[menu.main]]
 identifier = "Home"
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+identifier = "Dumpsters"
+name = "Dumpsters "
+url = "https://nevilletrucking.com/services/#/"
+weight = ""
 [[menu.main]]
 identifier = "Services"
 name = "Services"
