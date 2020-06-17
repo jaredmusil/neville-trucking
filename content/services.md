@@ -42,12 +42,12 @@ Contact us about your project and we will help you decide what size roll-off you
 
 These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
 
-| Size | Dimensions | Price per Dump | Weekly fee After Initial 2 Weeks* |
+| Size | Dimensions | Price per Dump | Daily fee After Initial 2 Weeks* |
 | --- | --- | --- | --- |
-| 2 Yards | 3.5'L x 5'W x 4'H | $90 ($125 shingles) | $25 |
-| 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $25 |
-| 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $25 |
-| 8 Yards | 13'L x 5'W x 4'H | $240 (no shingles) | $25 |
+| 2 Yards | 3.5'L x 5'W x 4'H | $100 ($135 shingles) | $5 |
+| 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $5 |
+| 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $5 |
+| 8 Yards | 13'L x 5'W x 4'H | $240 (no shingles) | $5 |
 
 <div class="photostrip">
 <div class="photo">
@@ -66,19 +66,19 @@ These dumpsters are great for businesses, small remodel jobs, cleaning out, and 
 
 <br>
 
-> *The rental fee after the initial 2 weeks is $5 per day or $25 a week.
+> *The rental fee after the initial 2 weeks is $5 per day.
 
 ***
 
 **ROLL OFF PRICING**
 
-We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $70.
+We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $75.
 
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
-| 10 Yards | 10'L x 8'W x 4'H | $340 |
-| 20 Yards | 20'L x 8'W x 4'H or 15'L x 8'W x 6'H | $390 |
-| 30 Yards | 20'L x 8'W x 6'H | $440 |
+| 10 Yards | 10'L x 8'W x 4'H | $375 |
+| 20 Yards | 20'L x 8'W x 4'H or 15'L x 8'W x 6'H | $425 |
+| 30 Yards | 20'L x 8'W x 6'H | $475 |
 
 <div class="photostrip">
 <div class="photo">
