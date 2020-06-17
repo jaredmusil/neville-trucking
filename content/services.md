@@ -17,8 +17,8 @@ We have a variety of sizes for your business or farming needs.
 | Size | Dimensions | Monthly Price |
 | --- | --- | --- |
 | 2 Yards | 3.5'L x 5'W x 4'H | $75 |
-| 4 Yards | 7'L x 5'W x 4'H | $100 |
-| 6 Yards | 10'L x 5'W x 4'H | $120 |
+| 4 Yards | 7'L x 5'W x 4'H | $140 |
+| 6 Yards | 10'L x 5'W x 4'H | $180 |
 
 <div class="photostrip">
 <div class="photo">
