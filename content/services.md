@@ -4,69 +4,11 @@ keywords = ["Services"]
 title = "Our Services"
 
 +++
-## RESIDENTIAL PICK-UP
-
-We've been providing residential garbage service to customers in Central Illinois for 56 years. We bill our customers quarterly (Jan, Apr, Jul, Oct).
-
-For inquiries related to residential garbage, please contact us by completing the contact form.
-
-## COMMERCIAL / PERMANENT DUMPSTERS
-
-We have a variety of sizes for your business or farming needs.
-
-| Size | Dimensions | Monthly Price |
-| --- | --- | --- |
-| 2 Yards | 3.5'L x 5'W x 4'H | $75 |
-| 4 Yards | 7'L x 5'W x 4'H | $140 |
-| 6 Yards | 10'L x 5'W x 4'H | $180 |
-
-<div class="photostrip">
-<div class="photo">
-<img class="thumb" src="/img/products/2yd-1-sm.jpg" alt="2 Yard"><div class="label">2 Yard</div>
-</div>
-<div class="photo">
-<img class="thumb" src="/img/products/4yd-1-sm.jpg" alt="4 Yard"><div class="label">4 Yard</div>
-</div>
-<div class="photo">
-<img class="thumb" src="/img/products/6yd-1-sm.jpg" alt="6 Yard"><div class="label">6 Yard</div>
-</div>
-</div>
-
-## DUMPSTERS & ROLL-OFFS
+## ROLL-OFF CONTAINERS
 
 Contact us about your project and we will help you decide what size roll-off you will need.
 
 <br>
-
-**DUMPSTER PRICING**
-
-These dumpsters are great for businesses, small remodel jobs, cleaning out, and miscellaneous projects.
-
-| Size | Dimensions | Price per Dump | Daily fee After Initial 2 Weeks* |
-| --- | --- | --- | --- |
-| 2 Yards | 3.5'L x 5'W x 4'H | $100 ($135 shingles) | $5 |
-| 4 Yards | 7'L x 5'W x 4'H | $150 ($175 shingles) | $5 |
-| 6 Yards | 9'L x 5'W x 4'H | $200 ($250 shingles) | $5 |
-| 8 Yards | 13'L x 5'W x 4'H | $240 (no shingles) | $5 |
-
-<div class="photostrip">
-<div class="photo">
-<img class="thumb" src="/img/products/2yd-1-sm.jpg" alt="2 Yard"><div class="label">2 Yard</div>
-</div>
-<div class="photo">
-<img class="thumb" src="/img/products/4yd-1-sm.jpg" alt="4 Yard"><div class="label">4 Yard</div>
-</div>
-<div class="photo">
-<img class="thumb" src="/img/products/6yd-1-sm.jpg" alt="6 Yard"><div class="label">6 Yard</div>
-</div>
-<div class="photo">
-<img class="thumb" src="/img/products/8yd-1-sm.jpg" alt="8 Yard"><div class="label">8 Yard</div>
-</div>
-</div>
-
-<br>
-
-> *The rental fee after the initial 2 weeks is $5 per day.
 
 ***
 
@@ -94,7 +36,7 @@ We require payment upon or before delivery of the container. The listed price in
 
 ***
 
-> For any dumpster rental, you <b>must</b> contact us for pick-up.
+> > <b>For any dumpster rental, you must contact us for pick-up.</b>
 >
 > There is a $100 over fill charge if your waste is above the fill line.
 >
