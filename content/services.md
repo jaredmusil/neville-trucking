@@ -8,13 +8,11 @@ title = "Our Services"
 
 Contact us about your project and we will help you decide what size roll-off you will need.
 
-<br>
-
 ***
 
 **ROLL OFF PRICING**
 
-We require payment upon or before delivery of the container. The listed price includes 2 tons. Each additional ton is $75.
+We require payment upon or before delivery of the container. 
 
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
@@ -36,7 +34,7 @@ We require payment upon or before delivery of the container. The listed price in
 
 ***
 
-> > <b>For any dumpster rental, you must contact us for pick-up.</b>
+> <b>For any rental, you must contact us for pick-up. The listed price includes 2 tons. Each additional ton is $75.</b>
 >
 > There is a $100 over fill charge if your waste is above the fill line.
 >
