@@ -12,7 +12,7 @@ Contact us about your project and we will help you decide what size roll-off you
 
 **ROLL OFF PRICING**
 
-We require payment upon or before delivery of the container. 
+We require payment upon or before delivery of the container. Pricing may vary based on delivery location. 
 
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
