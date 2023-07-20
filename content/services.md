@@ -16,9 +16,9 @@ We require payment upon or before delivery of the container. Pricing may vary ba
 
 | Size | Dimensions | Price Includes up to 2 Tons |
 | --- | --- | --- |
-| 10 Yards | 10'L x 8'W x 4'H | $390 |
-| 20 Yards | 20'L x 8'W x 4'H or 15'L x 8'W x 6'H | $440 |
-| 30 Yards | 20'L x 8'W x 6'H | $490 |
+| 10 Yards | 10'L x 8'W x 4'H | Call for pricing |
+| 20 Yards | 20'L x 8'W x 4'H or 15'L x 8'W x 6'H | Call for pricing|
+| 30 Yards | 20'L x 8'W x 6'H | Call for pricing |
 
 <div class="photostrip">
 <div class="photo">
@@ -34,7 +34,7 @@ We require payment upon or before delivery of the container. Pricing may vary ba
 
 ***
 
-> <b>For any rental, you must contact us for pick-up. The listed price includes 2 tons. Each additional ton is $75.</b>
+> <b>For any rental, you must contact us for pick-up. The price will include 2 tons.</b>
 >
 > There is a $100 over fill charge if your waste is above the fill line.
 >
